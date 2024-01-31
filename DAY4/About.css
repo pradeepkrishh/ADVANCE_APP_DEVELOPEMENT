@@ -1,0 +1,17 @@
+/* AboutPage.css */
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .abouth1 {
+    color: #007bff;
+  }
+  
+  .aboutp {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
