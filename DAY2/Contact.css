@@ -1,0 +1,49 @@
+/* ContactPage.css */
+.contact-container {
+    max-width: 400px;
+  margin: auto;
+  padding: 80px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: transparent;
+  backdrop-filter: blur(5px);
+  }
+  
+  .conh1 {
+    color: #007bff;
+  }
+  
+  .conform {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .conlabel {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .coninput,
+  .contextarea {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 100%;
+    margin-top: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
